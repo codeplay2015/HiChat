@@ -1,4 +1,4 @@
-HiChat
+HiChat 基于socket搭建的web聊天系统
 ===
  
 A chat application built with Node.js and socket.io.
